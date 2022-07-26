@@ -36,7 +36,7 @@
                 </th>
             
                 <th scope="col" class="px-6 py-3">
-                Email
+               nomor
                 </th>
                 
                 <th scope="col" class="px-6 py-3">
